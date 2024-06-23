@@ -1,4 +1,4 @@
-![image](https://github.com/ImRayyan/Keuanganku/assets/172302204/9ccebb22-e5fa-40ad-91a9-423c3797c3f2)# Keuanganku
+# Keuanganku
 
 Keuanganku adalah aplikasi sederhana untuk mengelola keuangan pribadi. Aplikasi ini membantu pengguna dalam mencatat pengeluaran dan pemasukan, serta menyediakan laporan keuangan yang mudah dipahami.
 
